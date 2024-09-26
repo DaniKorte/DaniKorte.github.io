@@ -1,7 +1,7 @@
 DaniKorte.github.io
 
 # Címsor 1
-## Címsor 10
+## Címsor 2
 ### Címsor 3
 #### Címsor 4
 ##### Címsor 5
