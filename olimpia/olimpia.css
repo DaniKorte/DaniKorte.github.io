@@ -1,0 +1,36 @@
+#keret {
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 10px black;
+  
+  
+}
+
+#kep1 {
+  height: 150px;
+  
+  float: right;
+  
+}
+
+a {
+  
+}
+.img-thumbnail{
+	width:250px;
+	height:200px;
+}
+
+
+h1, h2 {
+  font-family: Verdana;
+  color:grey;
+}
+
+p, li {
+  
+  text-indent: 20px;
+}
+
+
