@@ -22,8 +22,12 @@ a {
 	height:200px;
 }
 
+h1{
+  font-family: Verdana;
+  color: aqua;
+}
 
-h1, h2 {
+h2 {
   font-family: Verdana;
   color:grey;
 }
